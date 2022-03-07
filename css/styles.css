@@ -7,7 +7,7 @@
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
+	color: #161426;
 	background-color: #F2F0F2;
 }
 
@@ -56,4 +56,10 @@ body {
 
 .border-2 {
 	border-color: #672E8C !important;
+}
+
+a:link {
+
+color: mediumpurple;
+
 }
