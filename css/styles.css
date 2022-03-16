@@ -16,6 +16,7 @@ font-family: 'Fredoka', sans-serif;
 
 .resume-header {
     background-color: #A979D9;
+	text-shadow: 2px 2px purple;
 }
 
 .resume-main {
@@ -29,7 +30,7 @@ font-family: 'Fredoka', sans-serif;
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
-	content: ">";
+	content: "*";
 	font-weight: 800;
 	display: inline-block;
 	width: 1em;
